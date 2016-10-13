@@ -1,0 +1,29 @@
+{
+  "name": "async-javascript",
+  "version": "1.0.0",
+  "description": "A test drive of loading javascript dependencies for pages asynchronously",
+  "main": "async.js",
+  "dependencies": {
+    "requirejs": "^2.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blenderous/async-javascript.git"
+  },
+  "keywords": [
+    "js",
+    "browser",
+    "loading-js-for-webpage",
+    "page-load-optimization"
+  ],
+  "author": "Harish Veerasekaran",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blenderous/async-javascript/issues"
+  },
+  "homepage": "https://github.com/blenderous/async-javascript#readme"
+}
